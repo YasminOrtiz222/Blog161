@@ -13,7 +13,7 @@ namespace Otamix1.Models
         public string Titulo { get; set; }
         public int MensagemId { get; set; }
         public int DescricaoId { get; set; }
-        public int DataMensagenId { get; set; }
+        public int DataMensagem { get; set; }
         public string Autor { get; set; }
         [ForeignKey("MensagemId")]
         public Mensagem Mensagem { get; set; }

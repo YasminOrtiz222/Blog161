@@ -12945,23 +12945,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\cgrlab307\\.nuget\\packages\\": {},
+    "C:\\Users\\Fabrica\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cgrlab307\\source\\repos\\Otamix1\\Otamix1\\Otamix1.csproj",
+      "projectUniqueName": "C:\\Users\\Fabrica\\Documents\\BlogNaoki\\Blog161\\Otamix1\\Otamix1.csproj",
       "projectName": "Otamix1",
-      "projectPath": "C:\\Users\\cgrlab307\\source\\repos\\Otamix1\\Otamix1\\Otamix1.csproj",
-      "packagesPath": "C:\\Users\\cgrlab307\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cgrlab307\\source\\repos\\Otamix1\\Otamix1\\obj\\",
+      "projectPath": "C:\\Users\\Fabrica\\Documents\\BlogNaoki\\Blog161\\Otamix1\\Otamix1.csproj",
+      "packagesPath": "C:\\Users\\Fabrica\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Fabrica\\Documents\\BlogNaoki\\Blog161\\Otamix1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\cgrlab307\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Fabrica\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

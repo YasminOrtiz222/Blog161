@@ -39,7 +39,7 @@ namespace Otamix1.Migrations
 
                     b.Property<string>("Autor");
 
-                    b.Property<int>("DataMensagenId");
+                    b.Property<int>("DataMensagem");
 
                     b.Property<int>("DescricaoId");
 

@@ -16,7 +16,7 @@
                 @Html.DisplayNameFor(model => model.Titulo)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.DataMensagenId)
+                @Html.DisplayNameFor(model => model.DataMensagem)
             </th>
             <th>
                 @Html.DisplayNameFor(model => model.Autor)
@@ -37,7 +37,7 @@
                 @Html.DisplayFor(modelItem => item.Titulo)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.DataMensagenId)
+                @Html.DisplayFor(modelItem => item.DataMensagem)
             </td>
             <td>
                 @Html.DisplayFor(modelItem => item.Autor)
@@ -49,9 +49,9 @@
                 @Html.DisplayFor(modelItem => item.Descricao.Id)
             </td>
             <td>
-                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                <a asp-action="Edit" asp-route-id="@item.Id">Editar</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Detalis</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Deletar</a>
             </td>
         </tr>
 }
